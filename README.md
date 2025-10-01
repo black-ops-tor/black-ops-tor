@@ -28,4 +28,6 @@ Conclusion
 
 Tor is critical for securely interacting with Black Ops darknet market, preserving privacy and enabling anonymous transactions.
 
-Update:  18 September Links resolved
+
+
+Update:  01 October
